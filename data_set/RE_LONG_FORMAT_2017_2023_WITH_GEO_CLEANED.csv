@@ -1,0 +1,1101 @@
+year,state,region,latitude,longitude,source,generation
+2018,Chandigarh,NR,30.7333,76.7794,wind,0.0
+2018,Delhi,NR,28.7041,77.1025,wind,0.0
+2018,Haryana,NR,29.0588,76.0856,wind,0.0
+2018,Himachal Pradesh,NR,31.1048,77.1734,wind,0.0
+2018,Jammu and Kashmir,NR,33.7782,76.5762,wind,0.0
+2018,Punjab,NR,31.1471,75.3412,wind,0.0
+2018,Rajasthan,WR,27.0238,74.2179,wind,5060.64
+2018,Uttar Pradesh,NR,26.8467,80.9462,wind,0.0
+2018,Uttarakhand,NR,30.0668,79.0193,wind,0.0
+2018,Chhattisgarh,WR,21.2787,81.8661,wind,0.0
+2018,Gujarat,WR,22.2587,71.1924,wind,8522.0
+2018,Madhya Pradesh,WR,22.9734,78.6569,wind,3619.82
+2018,Maharashtra,WR,19.7515,75.7139,wind,6099.69
+2018,Dadra and Nagar Haveli,WR,20.1809,73.0169,wind,0.0
+2018,Daman and Diu,WR,20.4283,72.8397,wind,0.0
+2018,Andhra Pradesh,SR,15.9129,79.74,wind,5576.89
+2018,Telangana,SR,18.1124,79.0193,wind,180.23
+2018,Karnataka,SR,15.3173,75.7139,wind,6623.48
+2018,Kerala,SR,10.8505,76.2711,wind,86.75
+2018,Tamil Nadu,SR,11.1271,78.6569,wind,11491.81
+2018,Lakshadweep,SR,10.5667,72.6417,wind,0.0
+2018,Puducherry,SR,11.9416,79.8083,wind,0.0
+2018,Andaman Nicobar,IS,11.7401,92.6586,wind,0.0
+2018,Bihar,ER,25.0961,85.3131,wind,0.0
+2018,Jharkhand,ER,23.6102,85.2799,wind,0.0
+2018,Odisha,ER,20.9517,85.0985,wind,0.0
+2018,Sikkim,ER,27.533,88.5122,wind,0.0
+2018,West Bengal,ER,22.9868,87.855,wind,0.0
+2018,Arunachal Pradesh,NER,28.218,94.7278,wind,0.0
+2018,Assam,NER,26.2006,92.9376,wind,0.0
+2018,Manipur,NER,24.6637,93.9063,wind,0.0
+2018,Meghalaya,NER,25.467,91.3662,wind,0.0
+2018,Mizoram,NER,23.1645,92.9376,wind,0.0
+2018,Nagaland,NER,26.1584,94.5624,wind,0.0
+2018,Tripura,NER,23.9408,91.9882,wind,0.0
+2018,Chandigarh,NR,30.7333,76.7794,solar,6.35
+2018,Delhi,NR,28.7041,77.1025,solar,11.03
+2018,Haryana,NR,29.0588,76.0856,solar,51.84
+2018,Himachal Pradesh,NR,31.1048,77.1734,solar,0.0
+2018,Jammu and Kashmir,NR,33.7782,76.5762,solar,0.0
+2018,Punjab,NR,31.1471,75.3412,solar,1194.18
+2018,Rajasthan,WR,27.0238,74.2179,solar,2802.06
+2018,Uttar Pradesh,NR,26.8467,80.9462,solar,476.52
+2018,Uttarakhand,NR,30.0668,79.0193,solar,201.32
+2018,Chhattisgarh,WR,21.2787,81.8661,solar,96.48
+2018,Gujarat,WR,22.2587,71.1924,solar,1634.78
+2018,Madhya Pradesh,WR,22.9734,78.6569,solar,1430.77
+2018,Maharashtra,WR,19.7515,75.7139,solar,848.25
+2018,Dadra and Nagar Haveli,WR,20.1809,73.0169,solar,4.5
+2018,Daman and Diu,WR,20.4283,72.8397,solar,15.12
+2018,Andhra Pradesh,SR,15.9129,79.74,solar,2892.76
+2018,Telangana,SR,18.1124,79.0193,solar,2977.68
+2018,Karnataka,SR,15.3173,75.7139,solar,1527.92
+2018,Kerala,SR,10.8505,76.2711,solar,45.88
+2018,Tamil Nadu,SR,11.1271,78.6569,solar,2259.01
+2018,Lakshadweep,SR,10.5667,72.6417,solar,1.46
+2018,Puducherry,SR,11.9416,79.8083,solar,1.06
+2018,Andaman Nicobar,IS,11.7401,92.6586,solar,5.39
+2018,Bihar,ER,25.0961,85.3131,solar,106.11
+2018,Jharkhand,ER,23.6102,85.2799,solar,15.92
+2018,Odisha,ER,20.9517,85.0985,solar,167.13
+2018,Sikkim,ER,27.533,88.5122,solar,0.0
+2018,West Bengal,ER,22.9868,87.855,solar,15.75
+2018,Arunachal Pradesh,NER,28.218,94.7278,solar,0.21
+2018,Assam,NER,26.2006,92.9376,solar,7.34
+2018,Manipur,NER,24.6637,93.9063,solar,0.04
+2018,Meghalaya,NER,25.467,91.3662,solar,0.0
+2018,Mizoram,NER,23.1645,92.9376,solar,0.0
+2018,Nagaland,NER,26.1584,94.5624,solar,0.0
+2018,Tripura,NER,23.9408,91.9882,solar,0.0
+2018,Chandigarh,NR,30.7333,76.7794,small_hydro,0.0
+2018,Delhi,NR,28.7041,77.1025,small_hydro,0.0
+2018,Haryana,NR,29.0588,76.0856,small_hydro,193.75
+2018,Himachal Pradesh,NR,31.1048,77.1734,small_hydro,1802.59
+2018,Jammu and Kashmir,NR,33.7782,76.5762,small_hydro,291.0
+2018,Punjab,NR,31.1471,75.3412,small_hydro,174.57
+2018,Rajasthan,WR,27.0238,74.2179,small_hydro,5.89
+2018,Uttar Pradesh,NR,26.8467,80.9462,small_hydro,25.03
+2018,Uttarakhand,NR,30.0668,79.0193,small_hydro,529.36
+2018,Chhattisgarh,WR,21.2787,81.8661,small_hydro,19.62
+2018,Gujarat,WR,22.2587,71.1924,small_hydro,34.18
+2018,Madhya Pradesh,WR,22.9734,78.6569,small_hydro,109.12
+2018,Maharashtra,WR,19.7515,75.7139,small_hydro,496.17
+2018,Dadra and Nagar Haveli,WR,20.1809,73.0169,small_hydro,0.0
+2018,Daman and Diu,WR,20.4283,72.8397,small_hydro,0.0
+2018,Andhra Pradesh,SR,15.9129,79.74,small_hydro,139.77
+2018,Telangana,SR,18.1124,79.0193,small_hydro,47.99
+2018,Karnataka,SR,15.3173,75.7139,small_hydro,1531.08
+2018,Kerala,SR,10.8505,76.2711,small_hydro,554.63
+2018,Tamil Nadu,SR,11.1271,78.6569,small_hydro,159.42
+2018,Lakshadweep,SR,10.5667,72.6417,small_hydro,0.0
+2018,Puducherry,SR,11.9416,79.8083,small_hydro,0.0
+2018,Andaman Nicobar,IS,11.7401,92.6586,small_hydro,11.37
+2018,Bihar,ER,25.0961,85.3131,small_hydro,6.58
+2018,Jharkhand,ER,23.6102,85.2799,small_hydro,0.0
+2018,Odisha,ER,20.9517,85.0985,small_hydro,243.95
+2018,Sikkim,ER,27.533,88.5122,small_hydro,28.54
+2018,West Bengal,ER,22.9868,87.855,small_hydro,155.97
+2018,Arunachal Pradesh,NER,28.218,94.7278,small_hydro,0.46
+2018,Assam,NER,26.2006,92.9376,small_hydro,14.0
+2018,Manipur,NER,24.6637,93.9063,small_hydro,0.0
+2018,Meghalaya,NER,25.467,91.3662,small_hydro,61.4
+2018,Mizoram,NER,23.1645,92.9376,small_hydro,48.96
+2018,Nagaland,NER,26.1584,94.5624,small_hydro,84.21
+2018,Tripura,NER,23.9408,91.9882,small_hydro,36.57
+2018,Chandigarh,NR,30.7333,76.7794,bio_power,0.0
+2018,Delhi,NR,28.7041,77.1025,bio_power,189.89
+2018,Haryana,NR,29.0588,76.0856,bio_power,199.06
+2018,Himachal Pradesh,NR,31.1048,77.1734,bio_power,0.0
+2018,Jammu and Kashmir,NR,33.7782,76.5762,bio_power,0.0
+2018,Punjab,NR,31.1471,75.3412,bio_power,815.37
+2018,Rajasthan,WR,27.0238,74.2179,bio_power,284.75
+2018,Uttar Pradesh,NR,26.8467,80.9462,bio_power,2649.76
+2018,Uttarakhand,NR,30.0668,79.0193,bio_power,52.85
+2018,Chhattisgarh,WR,21.2787,81.8661,bio_power,778.0
+2018,Gujarat,WR,22.2587,71.1924,bio_power,24.83
+2018,Madhya Pradesh,WR,22.9734,78.6569,bio_power,64.02
+2018,Maharashtra,WR,19.7515,75.7139,bio_power,2467.0
+2018,Dadra and Nagar Haveli,WR,20.1809,73.0169,bio_power,0.0
+2018,Daman and Diu,WR,20.4283,72.8397,bio_power,0.0
+2018,Andhra Pradesh,SR,15.9129,79.74,bio_power,290.16
+2018,Telangana,SR,18.1124,79.0193,bio_power,282.4
+2018,Karnataka,SR,15.3173,75.7139,bio_power,1510.38
+2018,Kerala,SR,10.8505,76.2711,bio_power,0.0
+2018,Tamil Nadu,SR,11.1271,78.6569,bio_power,618.81
+2018,Lakshadweep,SR,10.5667,72.6417,bio_power,0.0
+2018,Puducherry,SR,11.9416,79.8083,bio_power,0.0
+2018,Andaman Nicobar,IS,11.7401,92.6586,bio_power,0.0
+2018,Bihar,ER,25.0961,85.3131,bio_power,86.63
+2018,Jharkhand,ER,23.6102,85.2799,bio_power,0.0
+2018,Odisha,ER,20.9517,85.0985,bio_power,34.09
+2018,Sikkim,ER,27.533,88.5122,bio_power,0.0
+2018,West Bengal,ER,22.9868,87.855,bio_power,1160.92
+2018,Arunachal Pradesh,NER,28.218,94.7278,bio_power,0.0
+2018,Assam,NER,26.2006,92.9376,bio_power,0.0
+2018,Manipur,NER,24.6637,93.9063,bio_power,0.0
+2018,Meghalaya,NER,25.467,91.3662,bio_power,0.0
+2018,Mizoram,NER,23.1645,92.9376,bio_power,0.0
+2018,Nagaland,NER,26.1584,94.5624,bio_power,0.0
+2018,Tripura,NER,23.9408,91.9882,bio_power,0.0
+2018,Chandigarh,NR,30.7333,76.7794,large_hydro,0.0
+2018,Delhi,NR,28.7041,77.1025,large_hydro,0.0
+2018,Haryana,NR,29.0588,76.0856,large_hydro,0.0
+2018,Himachal Pradesh,NR,31.1048,77.1734,large_hydro,35820.984000000004
+2018,Jammu and Kashmir,NR,33.7782,76.5762,large_hydro,16041.348000000002
+2018,Punjab,NR,31.1471,75.3412,large_hydro,4149.11
+2018,Rajasthan,WR,27.0238,74.2179,large_hydro,558.8140000000001
+2018,Uttar Pradesh,NR,26.8467,80.9462,large_hydro,1095.0819999999999
+2018,Uttarakhand,NR,30.0668,79.0193,large_hydro,13138.354000000001
+2018,Chhattisgarh,WR,21.2787,81.8661,large_hydro,273.26800000000003
+2018,Gujarat,WR,22.2587,71.1924,large_hydro,3648.4899999999993
+2018,Madhya Pradesh,WR,22.9734,78.6569,large_hydro,5168.608
+2018,Maharashtra,WR,19.7515,75.7139,large_hydro,5108.411999999999
+2018,Dadra and Nagar Haveli,WR,20.1809,73.0169,large_hydro,0.0
+2018,Daman and Diu,WR,20.4283,72.8397,large_hydro,0.0
+2018,Andhra Pradesh,SR,15.9129,79.74,large_hydro,2733.9759999999997
+2018,Telangana,SR,18.1124,79.0193,large_hydro,3829.1299999999997
+2018,Karnataka,SR,15.3173,75.7139,large_hydro,11753.774
+2018,Kerala,SR,10.8505,76.2711,large_hydro,6389.856
+2018,Tamil Nadu,SR,11.1271,78.6569,large_hydro,4736.628000000001
+2018,Lakshadweep,SR,10.5667,72.6417,large_hydro,0.0
+2018,Puducherry,SR,11.9416,79.8083,large_hydro,0.0
+2018,Andaman Nicobar,IS,11.7401,92.6586,large_hydro,0.0
+2018,Bihar,ER,25.0961,85.3131,large_hydro,0.0
+2018,Jharkhand,ER,23.6102,85.2799,large_hydro,246.848
+2018,Odisha,ER,20.9517,85.0985,large_hydro,5751.944000000001
+2018,Sikkim,ER,27.533,88.5122,large_hydro,10148.61
+2018,West Bengal,ER,22.9868,87.855,large_hydro,2890.4980000000005
+2018,Arunachal Pradesh,NER,28.218,94.7278,large_hydro,2832.8779999999997
+2018,Assam,NER,26.2006,92.9376,large_hydro,840.55
+2018,Manipur,NER,24.6637,93.9063,large_hydro,466.93
+2018,Meghalaya,NER,25.467,91.3662,large_hydro,928.5020000000001
+2018,Mizoram,NER,23.1645,92.9376,large_hydro,149.62800000000001
+2018,Nagaland,NER,26.1584,94.5624,large_hydro,172.724
+2018,Tripura,NER,23.9408,91.9882,large_hydro,0.0
+2019,Chandigarh,NR,30.7333,76.7794,wind,0.0
+2019,Delhi,NR,28.7041,77.1025,wind,0.0
+2019,Haryana,NR,29.0588,76.0856,wind,0.0
+2019,Himachal Pradesh,NR,31.1048,77.1734,wind,0.0
+2019,Jammu and Kashmir,NR,33.7782,76.5762,wind,0.0
+2019,Ladkh,NR,34.1526,77.5771,wind,0.0
+2019,Punjab,NR,31.1471,75.3412,wind,0.0
+2019,Rajasthan,WR,27.0238,74.2179,wind,6403.78
+2019,Uttar Pradesh,NR,26.8467,80.9462,wind,0.0
+2019,Uttarakhand,NR,30.0668,79.0193,wind,0.0
+2019,Chhattisgarh,WR,21.2787,81.8661,wind,0.0
+2019,Gujarat,WR,22.2587,71.1924,wind,11389.29
+2019,Madhya Pradesh,WR,22.9734,78.6569,wind,4965.95
+2019,Maharashtra,WR,19.7515,75.7139,wind,7575.14
+2019,Dadra and Nagar Haveli,WR,20.1809,73.0169,wind,0.0
+2019,Daman and Diu,WR,20.4283,72.8397,wind,0.0
+2019,Goa,WR,15.2993,74.124,wind,0.0
+2019,Andhra Pradesh,SR,15.9129,79.74,wind,8869.85
+2019,Telangana,SR,18.1124,79.0193,wind,274.83
+2019,Karnataka,SR,15.3173,75.7139,wind,9778.25
+2019,Kerala,SR,10.8505,76.2711,wind,107.94
+2019,Tamil Nadu,SR,11.1271,78.6569,wind,12600.85
+2019,Lakshadweep,SR,10.5667,72.6417,wind,0.0
+2019,Puducherry,SR,11.9416,79.8083,wind,0.0
+2019,Andaman Nicobar,IS,11.7401,92.6586,wind,0.0
+2019,Bihar,ER,25.0961,85.3131,wind,12.28
+2019,Jharkhand,ER,23.6102,85.2799,wind,0.0
+2019,Odisha,ER,20.9517,85.0985,wind,58.23
+2019,Sikkim,ER,27.533,88.5122,wind,0.0
+2019,West Bengal,ER,22.9868,87.855,wind,0.0
+2019,Arunachal Pradesh,NER,28.218,94.7278,wind,0.0
+2019,Assam,NER,26.2006,92.9376,wind,0.0
+2019,Manipur,NER,24.6637,93.9063,wind,0.0
+2019,Meghalaya,NER,25.467,91.3662,wind,0.0
+2019,Mizoram,NER,23.1645,92.9376,wind,0.0
+2019,Nagaland,NER,26.1584,94.5624,wind,0.0
+2019,Tripura,NER,23.9408,91.9882,wind,0.0
+2019,Chandigarh,NR,30.7333,76.7794,solar,13.51
+2019,Delhi,NR,28.7041,77.1025,solar,10.83
+2019,Haryana,NR,29.0588,76.0856,solar,72.47
+2019,Himachal Pradesh,NR,31.1048,77.1734,solar,0.0
+2019,Jammu and Kashmir,NR,33.7782,76.5762,solar,0.0
+2019,Ladkh,NR,34.1526,77.5771,solar,0.0
+2019,Punjab,NR,31.1471,75.3412,solar,1492.9
+2019,Rajasthan,WR,27.0238,74.2179,solar,5109.35
+2019,Uttar Pradesh,NR,26.8467,80.9462,solar,1235.08
+2019,Uttarakhand,NR,30.0668,79.0193,solar,318.29
+2019,Chhattisgarh,WR,21.2787,81.8661,solar,335.15
+2019,Gujarat,WR,22.2587,71.1924,solar,2410.32
+2019,Madhya Pradesh,WR,22.9734,78.6569,solar,2982.29
+2019,Maharashtra,WR,19.7515,75.7139,solar,2206.62
+2019,Dadra and Nagar Haveli,WR,20.1809,73.0169,solar,5.76
+2019,Daman and Diu,WR,20.4283,72.8397,solar,18.94
+2019,Goa,WR,15.2993,74.124,solar,0.0
+2019,Andhra Pradesh,SR,15.9129,79.74,solar,4965.96
+2019,Telangana,SR,18.1124,79.0193,solar,6312.26
+2019,Karnataka,SR,15.3173,75.7139,solar,7575.83
+2019,Kerala,SR,10.8505,76.2711,solar,110.84
+2019,Tamil Nadu,SR,11.1271,78.6569,solar,3554.5
+2019,Lakshadweep,SR,10.5667,72.6417,solar,1.11
+2019,Puducherry,SR,11.9416,79.8083,solar,2.58
+2019,Andaman Nicobar,IS,11.7401,92.6586,solar,13.86
+2019,Bihar,ER,25.0961,85.3131,solar,179.89
+2019,Jharkhand,ER,23.6102,85.2799,solar,19.15
+2019,Odisha,ER,20.9517,85.0985,solar,263.03
+2019,Sikkim,ER,27.533,88.5122,solar,0.0
+2019,West Bengal,ER,22.9868,87.855,solar,40.65
+2019,Arunachal Pradesh,NER,28.218,94.7278,solar,1.2
+2019,Assam,NER,26.2006,92.9376,solar,6.67
+2019,Manipur,NER,24.6637,93.9063,solar,1.88
+2019,Meghalaya,NER,25.467,91.3662,solar,0.0
+2019,Mizoram,NER,23.1645,92.9376,solar,0.12
+2019,Nagaland,NER,26.1584,94.5624,solar,0.0
+2019,Tripura,NER,23.9408,91.9882,solar,7.14
+2019,Chandigarh,NR,30.7333,76.7794,small_hydro,0.0
+2019,Delhi,NR,28.7041,77.1025,small_hydro,0.0
+2019,Haryana,NR,29.0588,76.0856,small_hydro,250.84
+2019,Himachal Pradesh,NR,31.1048,77.1734,small_hydro,2287.93
+2019,Jammu and Kashmir,NR,33.7782,76.5762,small_hydro,312.2
+2019,Ladkh,NR,34.1526,77.5771,small_hydro,0.0
+2019,Punjab,NR,31.1471,75.3412,small_hydro,351.22
+2019,Rajasthan,WR,27.0238,74.2179,small_hydro,5.18
+2019,Uttar Pradesh,NR,26.8467,80.9462,small_hydro,31.29
+2019,Uttarakhand,NR,30.0668,79.0193,small_hydro,676.79
+2019,Chhattisgarh,WR,21.2787,81.8661,small_hydro,80.05
+2019,Gujarat,WR,22.2587,71.1924,small_hydro,86.19
+2019,Madhya Pradesh,WR,22.9734,78.6569,small_hydro,145.47
+2019,Maharashtra,WR,19.7515,75.7139,small_hydro,759.07
+2019,Dadra and Nagar Haveli,WR,20.1809,73.0169,small_hydro,0.0
+2019,Daman and Diu,WR,20.4283,72.8397,small_hydro,0.0
+2019,Goa,WR,15.2993,74.124,small_hydro,0.0
+2019,Andhra Pradesh,SR,15.9129,79.74,small_hydro,193.12
+2019,Telangana,SR,18.1124,79.0193,small_hydro,51.17
+2019,Karnataka,SR,15.3173,75.7139,small_hydro,1803.09
+2019,Kerala,SR,10.8505,76.2711,small_hydro,551.55
+2019,Tamil Nadu,SR,11.1271,78.6569,small_hydro,347.97
+2019,Lakshadweep,SR,10.5667,72.6417,small_hydro,0.0
+2019,Puducherry,SR,11.9416,79.8083,small_hydro,0.0
+2019,Andaman Nicobar,IS,11.7401,92.6586,small_hydro,16.57
+2019,Bihar,ER,25.0961,85.3131,small_hydro,27.74
+2019,Jharkhand,ER,23.6102,85.2799,small_hydro,1.76
+2019,Odisha,ER,20.9517,85.0985,small_hydro,266.1
+2019,Sikkim,ER,27.533,88.5122,small_hydro,28.11
+2019,West Bengal,ER,22.9868,87.855,small_hydro,161.85
+2019,Arunachal Pradesh,NER,28.218,94.7278,small_hydro,0.55
+2019,Assam,NER,26.2006,92.9376,small_hydro,14.06
+2019,Manipur,NER,24.6637,93.9063,small_hydro,0.0
+2019,Meghalaya,NER,25.467,91.3662,small_hydro,50.51
+2019,Mizoram,NER,23.1645,92.9376,small_hydro,39.96
+2019,Nagaland,NER,26.1584,94.5624,small_hydro,87.46
+2019,Tripura,NER,23.9408,91.9882,small_hydro,74.94
+2019,Chandigarh,NR,30.7333,76.7794,bio_power,0.0
+2019,Delhi,NR,28.7041,77.1025,bio_power,276.81
+2019,Haryana,NR,29.0588,76.0856,bio_power,339.05
+2019,Himachal Pradesh,NR,31.1048,77.1734,bio_power,0.0
+2019,Jammu and Kashmir,NR,33.7782,76.5762,bio_power,0.0
+2019,Ladkh,NR,34.1526,77.5771,bio_power,0.0
+2019,Punjab,NR,31.1471,75.3412,bio_power,601.08
+2019,Rajasthan,WR,27.0238,74.2179,bio_power,345.09
+2019,Uttar Pradesh,NR,26.8467,80.9462,bio_power,4428.44
+2019,Uttarakhand,NR,30.0668,79.0193,bio_power,109.89
+2019,Chhattisgarh,WR,21.2787,81.8661,bio_power,529.89
+2019,Gujarat,WR,22.2587,71.1924,bio_power,80.37
+2019,Madhya Pradesh,WR,22.9734,78.6569,bio_power,163.45
+2019,Maharashtra,WR,19.7515,75.7139,bio_power,4434.06
+2019,Dadra and Nagar Haveli,WR,20.1809,73.0169,bio_power,0.0
+2019,Daman and Diu,WR,20.4283,72.8397,bio_power,0.0
+2019,Goa,WR,15.2993,74.124,bio_power,0.0
+2019,Andhra Pradesh,SR,15.9129,79.74,bio_power,521.58
+2019,Telangana,SR,18.1124,79.0193,bio_power,407.73
+2019,Karnataka,SR,15.3173,75.7139,bio_power,2500.37
+2019,Kerala,SR,10.8505,76.2711,bio_power,0.0
+2019,Tamil Nadu,SR,11.1271,78.6569,bio_power,395.17
+2019,Lakshadweep,SR,10.5667,72.6417,bio_power,0.0
+2019,Puducherry,SR,11.9416,79.8083,bio_power,0.0
+2019,Andaman Nicobar,IS,11.7401,92.6586,bio_power,0.0
+2019,Bihar,ER,25.0961,85.3131,bio_power,268.23
+2019,Jharkhand,ER,23.6102,85.2799,bio_power,0.81
+2019,Odisha,ER,20.9517,85.0985,bio_power,66.08
+2019,Sikkim,ER,27.533,88.5122,bio_power,0.0
+2019,West Bengal,ER,22.9868,87.855,bio_power,1283.69
+2019,Arunachal Pradesh,NER,28.218,94.7278,bio_power,0.0
+2019,Assam,NER,26.2006,92.9376,bio_power,0.0
+2019,Manipur,NER,24.6637,93.9063,bio_power,0.0
+2019,Meghalaya,NER,25.467,91.3662,bio_power,0.0
+2019,Mizoram,NER,23.1645,92.9376,bio_power,0.0
+2019,Nagaland,NER,26.1584,94.5624,bio_power,0.0
+2019,Tripura,NER,23.9408,91.9882,bio_power,0.0
+2019,Chandigarh,NR,30.7333,76.7794,large_hydro,0.0
+2019,Delhi,NR,28.7041,77.1025,large_hydro,0.0
+2019,Haryana,NR,29.0588,76.0856,large_hydro,0.0
+2019,Himachal Pradesh,NR,31.1048,77.1734,large_hydro,35908.55
+2019,Jammu and Kashmir,NR,33.7782,76.5762,large_hydro,16387.07
+2019,Ladkh,NR,34.1526,77.5771,large_hydro,154.51
+2019,Punjab,NR,31.1471,75.3412,large_hydro,4335.4
+2019,Rajasthan,WR,27.0238,74.2179,large_hydro,698.4
+2019,Uttar Pradesh,NR,26.8467,80.9462,large_hydro,1176.36
+2019,Uttarakhand,NR,30.0668,79.0193,large_hydro,13741.12
+2019,Chhattisgarh,WR,21.2787,81.8661,large_hydro,243.08
+2019,Gujarat,WR,22.2587,71.1924,large_hydro,1042.81
+2019,Madhya Pradesh,WR,22.9734,78.6569,large_hydro,3396.67
+2019,Maharashtra,WR,19.7515,75.7139,large_hydro,5076.86
+2019,Dadra and Nagar Haveli,WR,20.1809,73.0169,large_hydro,0.0
+2019,Daman and Diu,WR,20.4283,72.8397,large_hydro,0.0
+2019,Goa,WR,15.2993,74.124,large_hydro,0.0
+2019,Andhra Pradesh,SR,15.9129,79.74,large_hydro,2272.94
+2019,Telangana,SR,18.1124,79.0193,large_hydro,1744.61
+2019,Karnataka,SR,15.3173,75.7139,large_hydro,12187.69
+2019,Kerala,SR,10.8505,76.2711,large_hydro,7320.21
+2019,Tamil Nadu,SR,11.1271,78.6569,large_hydro,5281.59
+2019,Lakshadweep,SR,10.5667,72.6417,large_hydro,0.0
+2019,Puducherry,SR,11.9416,79.8083,large_hydro,0.0
+2019,Andaman Nicobar,IS,11.7401,92.6586,large_hydro,0.0
+2019,Bihar,ER,25.0961,85.3131,large_hydro,0.0
+2019,Jharkhand,ER,23.6102,85.2799,large_hydro,180.98
+2019,Odisha,ER,20.9517,85.0985,large_hydro,6777.45
+2019,Sikkim,ER,27.533,88.5122,large_hydro,9022.07
+2019,West Bengal,ER,22.9868,87.855,large_hydro,2919.81
+2019,Arunachal Pradesh,NER,28.218,94.7278,large_hydro,1399.02
+2019,Assam,NER,26.2006,92.9376,large_hydro,1694.36
+2019,Manipur,NER,24.6637,93.9063,large_hydro,602.61
+2019,Meghalaya,NER,25.467,91.3662,large_hydro,929.53
+2019,Mizoram,NER,23.1645,92.9376,large_hydro,168.44
+2019,Nagaland,NER,26.1584,94.5624,large_hydro,231.47
+2019,Tripura,NER,23.9408,91.9882,large_hydro,0.0
+2020,Chandigarh,NR,30.7333,76.7794,wind,0.0
+2020,Delhi,NR,28.7041,77.1025,wind,0.0
+2020,Haryana,NR,29.0588,76.0856,wind,0.0
+2020,Himachal Pradesh,NR,31.1048,77.1734,wind,0.0
+2020,Jammu and Kashmir,NR,33.7782,76.5762,wind,0.0
+2020,Ladkh,NR,34.1526,77.5771,wind,0.0
+2020,Punjab,NR,31.1471,75.3412,wind,16.9
+2020,Rajasthan,WR,27.0238,74.2179,wind,6155.8
+2020,Uttar Pradesh,NR,26.8467,80.9462,wind,0.0
+2020,Uttarakhand,NR,30.0668,79.0193,wind,0.0
+2020,Chhattisgarh,WR,21.2787,81.8661,wind,0.0
+2020,Gujarat,WR,22.2587,71.1924,wind,13748.53
+2020,Madhya Pradesh,WR,22.9734,78.6569,wind,4425.99
+2020,Maharashtra,WR,19.7515,75.7139,wind,7984.27
+2020,Dadra and Nagar Haveli,WR,20.1809,73.0169,wind,0.0
+2020,Daman and Diu,WR,20.4283,72.8397,wind,0.0
+2020,Goa,WR,15.2993,74.124,wind,0.0
+2020,Andhra Pradesh,SR,15.9129,79.74,wind,7626.63
+2020,Telangana,SR,18.1124,79.0193,wind,238.25
+2020,Karnataka,SR,15.3173,75.7139,wind,10148.66
+2020,Kerala,SR,10.8505,76.2711,wind,119.76
+2020,Tamil Nadu,SR,11.1271,78.6569,wind,14126.93
+2020,Lakshadweep,SR,10.5667,72.6417,wind,0.0
+2020,Puducherry,SR,11.9416,79.8083,wind,0.0
+2020,Andaman Nicobar,IS,11.7401,92.6586,wind,0.0
+2020,Bihar,ER,25.0961,85.3131,wind,0.0
+2020,Jharkhand,ER,23.6102,85.2799,wind,0.0
+2020,Odisha,ER,20.9517,85.0985,wind,54.66
+2020,Sikkim,ER,27.533,88.5122,wind,0.0
+2020,West Bengal,ER,22.9868,87.855,wind,0.0
+2020,Arunachal Pradesh,NER,28.218,94.7278,wind,0.0
+2020,Assam,NER,26.2006,92.9376,wind,0.0
+2020,Manipur,NER,24.6637,93.9063,wind,0.0
+2020,Meghalaya,NER,25.467,91.3662,wind,0.0
+2020,Mizoram,NER,23.1645,92.9376,wind,0.0
+2020,Nagaland,NER,26.1584,94.5624,wind,0.0
+2020,Tripura,NER,23.9408,91.9882,wind,0.0
+2020,Chandigarh,NR,30.7333,76.7794,solar,13.33
+2020,Delhi,NR,28.7041,77.1025,solar,136.3
+2020,Haryana,NR,29.0588,76.0856,solar,125.14
+2020,Himachal Pradesh,NR,31.1048,77.1734,solar,11.66
+2020,Jammu and Kashmir,NR,33.7782,76.5762,solar,0.0
+2020,Ladkh,NR,34.1526,77.5771,solar,0.0
+2020,Punjab,NR,31.1471,75.3412,solar,1358.22
+2020,Rajasthan,WR,27.0238,74.2179,solar,7776.56
+2020,Uttar Pradesh,NR,26.8467,80.9462,solar,1447.05
+2020,Uttarakhand,NR,30.0668,79.0193,solar,341.51
+2020,Chhattisgarh,WR,21.2787,81.8661,solar,326.42
+2020,Gujarat,WR,22.2587,71.1924,solar,3631.86
+2020,Madhya Pradesh,WR,22.9734,78.6569,solar,3496.23
+2020,Maharashtra,WR,19.7515,75.7139,solar,2372.68
+2020,Dadra and Nagar Haveli,WR,20.1809,73.0169,solar,6.19
+2020,Daman and Diu,WR,20.4283,72.8397,solar,21.83
+2020,Goa,WR,15.2993,74.124,solar,0.82
+2020,Andhra Pradesh,SR,15.9129,79.74,solar,5855.11
+2020,Telangana,SR,18.1124,79.0193,solar,6263.92
+2020,Karnataka,SR,15.3173,75.7139,solar,11221.2
+2020,Kerala,SR,10.8505,76.2711,solar,143.59
+2020,Tamil Nadu,SR,11.1271,78.6569,solar,4946.63
+2020,Lakshadweep,SR,10.5667,72.6417,solar,0.66
+2020,Puducherry,SR,11.9416,79.8083,solar,4.14
+2020,Andaman Nicobar,IS,11.7401,92.6586,solar,11.6
+2020,Bihar,ER,25.0961,85.3131,solar,160.16
+2020,Jharkhand,ER,23.6102,85.2799,solar,17.47
+2020,Odisha,ER,20.9517,85.0985,solar,362.29
+2020,Sikkim,ER,27.533,88.5122,solar,0.0
+2020,West Bengal,ER,22.9868,87.855,solar,64.29
+2020,Arunachal Pradesh,NER,28.218,94.7278,solar,1.6
+2020,Assam,NER,26.2006,92.9376,solar,6.14
+2020,Manipur,NER,24.6637,93.9063,solar,2.63
+2020,Meghalaya,NER,25.467,91.3662,solar,0.0
+2020,Mizoram,NER,23.1645,92.9376,solar,0.44
+2020,Nagaland,NER,26.1584,94.5624,solar,0.0
+2020,Tripura,NER,23.9408,91.9882,solar,3.43
+2020,Chandigarh,NR,30.7333,76.7794,small_hydro,0.0
+2020,Delhi,NR,28.7041,77.1025,small_hydro,0.0
+2020,Haryana,NR,29.0588,76.0856,small_hydro,326.89
+2020,Himachal Pradesh,NR,31.1048,77.1734,small_hydro,2155.58
+2020,Jammu and Kashmir,NR,33.7782,76.5762,small_hydro,443.13
+2020,Ladkh,NR,34.1526,77.5771,small_hydro,0.0
+2020,Punjab,NR,31.1471,75.3412,small_hydro,712.77
+2020,Rajasthan,WR,27.0238,74.2179,small_hydro,9.75
+2020,Uttar Pradesh,NR,26.8467,80.9462,small_hydro,36.43
+2020,Uttarakhand,NR,30.0668,79.0193,small_hydro,742.19
+2020,Chhattisgarh,WR,21.2787,81.8661,small_hydro,101.75
+2020,Gujarat,WR,22.2587,71.1924,small_hydro,194.8
+2020,Madhya Pradesh,WR,22.9734,78.6569,small_hydro,246.16
+2020,Maharashtra,WR,19.7515,75.7139,small_hydro,695.56
+2020,Dadra and Nagar Haveli,WR,20.1809,73.0169,small_hydro,0.0
+2020,Daman and Diu,WR,20.4283,72.8397,small_hydro,0.0
+2020,Goa,WR,15.2993,74.124,small_hydro,0.0
+2020,Andhra Pradesh,SR,15.9129,79.74,small_hydro,298.19
+2020,Telangana,SR,18.1124,79.0193,small_hydro,46.29
+2020,Karnataka,SR,15.3173,75.7139,small_hydro,1901.91
+2020,Kerala,SR,10.8505,76.2711,small_hydro,530.36
+2020,Tamil Nadu,SR,11.1271,78.6569,small_hydro,235.76
+2020,Lakshadweep,SR,10.5667,72.6417,small_hydro,0.0
+2020,Puducherry,SR,11.9416,79.8083,small_hydro,0.0
+2020,Andaman Nicobar,IS,11.7401,92.6586,small_hydro,5.7
+2020,Bihar,ER,25.0961,85.3131,small_hydro,18.98
+2020,Jharkhand,ER,23.6102,85.2799,small_hydro,5.43
+2020,Odisha,ER,20.9517,85.0985,small_hydro,299.65
+2020,Sikkim,ER,27.533,88.5122,small_hydro,60.62
+2020,West Bengal,ER,22.9868,87.855,small_hydro,115.68
+2020,Arunachal Pradesh,NER,28.218,94.7278,small_hydro,0.64
+2020,Assam,NER,26.2006,92.9376,small_hydro,52.63
+2020,Manipur,NER,24.6637,93.9063,small_hydro,1.57
+2020,Meghalaya,NER,25.467,91.3662,small_hydro,62.73
+2020,Mizoram,NER,23.1645,92.9376,small_hydro,49.56
+2020,Nagaland,NER,26.1584,94.5624,small_hydro,75.87
+2020,Tripura,NER,23.9408,91.9882,small_hydro,24.67
+2020,Chandigarh,NR,30.7333,76.7794,bio_power,0.0
+2020,Delhi,NR,28.7041,77.1025,bio_power,287.37
+2020,Haryana,NR,29.0588,76.0856,bio_power,281.47
+2020,Himachal Pradesh,NR,31.1048,77.1734,bio_power,0.0
+2020,Jammu and Kashmir,NR,33.7782,76.5762,bio_power,0.0
+2020,Ladkh,NR,34.1526,77.5771,bio_power,0.0
+2020,Punjab,NR,31.1471,75.3412,bio_power,651.54
+2020,Rajasthan,WR,27.0238,74.2179,bio_power,389.94
+2020,Uttar Pradesh,NR,26.8467,80.9462,bio_power,3659.73
+2020,Uttarakhand,NR,30.0668,79.0193,bio_power,110.26
+2020,Chhattisgarh,WR,21.2787,81.8661,bio_power,679.7
+2020,Gujarat,WR,22.2587,71.1924,bio_power,141.74
+2020,Madhya Pradesh,WR,22.9734,78.6569,bio_power,129.49
+2020,Maharashtra,WR,19.7515,75.7139,bio_power,2933.29
+2020,Dadra and Nagar Haveli,WR,20.1809,73.0169,bio_power,0.0
+2020,Daman and Diu,WR,20.4283,72.8397,bio_power,0.0
+2020,Goa,WR,15.2993,74.124,bio_power,0.0
+2020,Andhra Pradesh,SR,15.9129,79.74,bio_power,213.27
+2020,Telangana,SR,18.1124,79.0193,bio_power,245.78
+2020,Karnataka,SR,15.3173,75.7139,bio_power,2376.65
+2020,Kerala,SR,10.8505,76.2711,bio_power,11.03
+2020,Tamil Nadu,SR,11.1271,78.6569,bio_power,454.57
+2020,Lakshadweep,SR,10.5667,72.6417,bio_power,0.0
+2020,Puducherry,SR,11.9416,79.8083,bio_power,0.0
+2020,Andaman Nicobar,IS,11.7401,92.6586,bio_power,0.0
+2020,Bihar,ER,25.0961,85.3131,bio_power,179.54
+2020,Jharkhand,ER,23.6102,85.2799,bio_power,1.28
+2020,Odisha,ER,20.9517,85.0985,bio_power,66.59
+2020,Sikkim,ER,27.533,88.5122,bio_power,0.0
+2020,West Bengal,ER,22.9868,87.855,bio_power,1295.07
+2020,Arunachal Pradesh,NER,28.218,94.7278,bio_power,0.0
+2020,Assam,NER,26.2006,92.9376,bio_power,0.0
+2020,Manipur,NER,24.6637,93.9063,bio_power,0.0
+2020,Meghalaya,NER,25.467,91.3662,bio_power,0.0
+2020,Mizoram,NER,23.1645,92.9376,bio_power,0.0
+2020,Nagaland,NER,26.1584,94.5624,bio_power,0.0
+2020,Tripura,NER,23.9408,91.9882,bio_power,0.0
+2020,Chandigarh,NR,30.7333,76.7794,large_hydro,0.0
+2020,Delhi,NR,28.7041,77.1025,large_hydro,0.0
+2020,Haryana,NR,29.0588,76.0856,large_hydro,0.0
+2020,Himachal Pradesh,NR,31.1048,77.1734,large_hydro,40834.88
+2020,Jammu and Kashmir,NR,33.7782,76.5762,large_hydro,18094.12
+2020,Ladkh,NR,34.1526,77.5771,large_hydro,270.28
+2020,Punjab,NR,31.1471,75.3412,large_hydro,5123.48
+2020,Rajasthan,WR,27.0238,74.2179,large_hydro,606.18
+2020,Uttar Pradesh,NR,26.8467,80.9462,large_hydro,1073.48
+2020,Uttarakhand,NR,30.0668,79.0193,large_hydro,14554.53
+2020,Chhattisgarh,WR,21.2787,81.8661,large_hydro,236.79
+2020,Gujarat,WR,22.2587,71.1924,large_hydro,5414.68
+2020,Madhya Pradesh,WR,22.9734,78.6569,large_hydro,6281.74
+2020,Maharashtra,WR,19.7515,75.7139,large_hydro,5880.58
+2020,Dadra and Nagar Haveli,WR,20.1809,73.0169,large_hydro,0.0
+2020,Daman and Diu,WR,20.4283,72.8397,large_hydro,0.0
+2020,Goa,WR,15.2993,74.124,large_hydro,0.0
+2020,Andhra Pradesh,SR,15.9129,79.74,large_hydro,3013.43
+2020,Telangana,SR,18.1124,79.0193,large_hydro,4507.04
+2020,Karnataka,SR,15.3173,75.7139,large_hydro,14014.27
+2020,Kerala,SR,10.8505,76.2711,large_hydro,5454.04
+2020,Tamil Nadu,SR,11.1271,78.6569,large_hydro,4765.24
+2020,Lakshadweep,SR,10.5667,72.6417,large_hydro,0.0
+2020,Puducherry,SR,11.9416,79.8083,large_hydro,0.0
+2020,Andaman Nicobar,IS,11.7401,92.6586,large_hydro,0.0
+2020,Bihar,ER,25.0961,85.3131,large_hydro,0.0
+2020,Jharkhand,ER,23.6102,85.2799,large_hydro,150.96
+2020,Odisha,ER,20.9517,85.0985,large_hydro,6728.77
+2020,Sikkim,ER,27.533,88.5122,large_hydro,11027.36
+2020,West Bengal,ER,22.9868,87.855,large_hydro,2916.38
+2020,Arunachal Pradesh,NER,28.218,94.7278,large_hydro,1786.46
+2020,Assam,NER,26.2006,92.9376,large_hydro,1291.68
+2020,Manipur,NER,24.6637,93.9063,large_hydro,366.59
+2020,Meghalaya,NER,25.467,91.3662,large_hydro,1018.29
+2020,Mizoram,NER,23.1645,92.9376,large_hydro,177.02
+2020,Nagaland,NER,26.1584,94.5624,large_hydro,180.85
+2020,Tripura,NER,23.9408,91.9882,large_hydro,0.0
+2021,Chandigarh,NR,30.7333,76.7794,wind,0.0
+2021,Delhi,NR,28.7041,77.1025,wind,0.0
+2021,Haryana,NR,29.0588,76.0856,wind,0.0
+2021,Himachal Pradesh,NR,31.1048,77.1734,wind,0.0
+2021,Jammu and Kashmir,NR,33.7782,76.5762,wind,0.0
+2021,Ladkh,NR,34.1526,77.5771,wind,0.0
+2021,Punjab,NR,31.1471,75.3412,wind,0.0
+2021,Rajasthan,WR,27.0238,74.2179,wind,5708.27
+2021,Uttar Pradesh,NR,26.8467,80.9462,wind,0.0
+2021,Uttarakhand,NR,30.0668,79.0193,wind,0.0
+2021,Chhattisgarh,WR,21.2787,81.8661,wind,0.0
+2021,Gujarat,WR,22.2587,71.1924,wind,13058.52
+2021,Madhya Pradesh,WR,22.9734,78.6569,wind,3913.45
+2021,Maharashtra,WR,19.7515,75.7139,wind,6384.74
+2021,Dadra and Nagar Haveli,WR,20.1809,73.0169,wind,0.0
+2021,Daman and Diu,WR,20.4283,72.8397,wind,0.0
+2021,Goa,WR,15.2993,74.124,wind,0.0
+2021,Andhra Pradesh,SR,15.9129,79.74,wind,6557.75
+2021,Telangana,SR,18.1124,79.0193,wind,220.91
+2021,Karnataka,SR,15.3173,75.7139,wind,9610.91
+2021,Kerala,SR,10.8505,76.2711,wind,130.42
+2021,Tamil Nadu,SR,11.1271,78.6569,wind,14564.99
+2021,Lakshadweep,SR,10.5667,72.6417,wind,0.0
+2021,Puducherry,SR,11.9416,79.8083,wind,0.0
+2021,Andaman Nicobar,IS,11.7401,92.6586,wind,0.0
+2021,Bihar,ER,25.0961,85.3131,wind,0.0
+2021,Jharkhand,ER,23.6102,85.2799,wind,0.0
+2021,Odisha,ER,20.9517,85.0985,wind,0.0
+2021,Sikkim,ER,27.533,88.5122,wind,0.0
+2021,West Bengal,ER,22.9868,87.855,wind,0.0
+2021,Arunachal Pradesh,NER,28.218,94.7278,wind,0.0
+2021,Assam,NER,26.2006,92.9376,wind,0.0
+2021,Manipur,NER,24.6637,93.9063,wind,0.0
+2021,Meghalaya,NER,25.467,91.3662,wind,0.0
+2021,Mizoram,NER,23.1645,92.9376,wind,0.0
+2021,Nagaland,NER,26.1584,94.5624,wind,0.0
+2021,Tripura,NER,23.9408,91.9882,wind,0.0
+2021,Chandigarh,NR,30.7333,76.7794,solar,10.16
+2021,Delhi,NR,28.7041,77.1025,solar,189.99
+2021,Haryana,NR,29.0588,76.0856,solar,162.95
+2021,Himachal Pradesh,NR,31.1048,77.1734,solar,36.52
+2021,Jammu and Kashmir,NR,33.7782,76.5762,solar,9.42
+2021,Ladkh,NR,34.1526,77.5771,solar,0.0
+2021,Punjab,NR,31.1471,75.3412,solar,1356.48
+2021,Rajasthan,WR,27.0238,74.2179,solar,10384.24
+2021,Uttar Pradesh,NR,26.8467,80.9462,solar,1856.19
+2021,Uttarakhand,NR,30.0668,79.0193,solar,329.64
+2021,Chhattisgarh,WR,21.2787,81.8661,solar,370.8
+2021,Gujarat,WR,22.2587,71.1924,solar,4633.81
+2021,Madhya Pradesh,WR,22.9734,78.6569,solar,4202.03
+2021,Maharashtra,WR,19.7515,75.7139,solar,3089.46
+2021,Dadra and Nagar Haveli,WR,20.1809,73.0169,solar,11.96
+2021,Daman and Diu,WR,20.4283,72.8397,solar,29.52
+2021,Goa,WR,15.2993,74.124,solar,1.46
+2021,Andhra Pradesh,SR,15.9129,79.74,solar,6956.1
+2021,Telangana,SR,18.1124,79.0193,solar,6351.04
+2021,Karnataka,SR,15.3173,75.7139,solar,13238.86
+2021,Kerala,SR,10.8505,76.2711,solar,275.44
+2021,Tamil Nadu,SR,11.1271,78.6569,solar,6115.48
+2021,Lakshadweep,SR,10.5667,72.6417,solar,0.45
+2021,Puducherry,SR,11.9416,79.8083,solar,6.39
+2021,Andaman Nicobar,IS,11.7401,92.6586,solar,24.82
+2021,Bihar,ER,25.0961,85.3131,solar,160.63
+2021,Jharkhand,ER,23.6102,85.2799,solar,17.16
+2021,Odisha,ER,20.9517,85.0985,solar,476.26
+2021,Sikkim,ER,27.533,88.5122,solar,0.0
+2021,West Bengal,ER,22.9868,87.855,solar,73.92
+2021,Arunachal Pradesh,NER,28.218,94.7278,solar,1.54
+2021,Assam,NER,26.2006,92.9376,solar,13.37
+2021,Manipur,NER,24.6637,93.9063,solar,7.71
+2021,Meghalaya,NER,25.467,91.3662,solar,0.0
+2021,Mizoram,NER,23.1645,92.9376,solar,2.45
+2021,Nagaland,NER,26.1584,94.5624,solar,0.0
+2021,Tripura,NER,23.9408,91.9882,solar,6.04
+2021,Chandigarh,NR,30.7333,76.7794,small_hydro,0.0
+2021,Delhi,NR,28.7041,77.1025,small_hydro,0.0
+2021,Haryana,NR,29.0588,76.0856,small_hydro,276.58
+2021,Himachal Pradesh,NR,31.1048,77.1734,small_hydro,2123.78
+2021,Jammu and Kashmir,NR,33.7782,76.5762,small_hydro,429.88
+2021,Ladkh,NR,34.1526,77.5771,small_hydro,0.0
+2021,Punjab,NR,31.1471,75.3412,small_hydro,690.33
+2021,Rajasthan,WR,27.0238,74.2179,small_hydro,10.64
+2021,Uttar Pradesh,NR,26.8467,80.9462,small_hydro,164.91
+2021,Uttarakhand,NR,30.0668,79.0193,small_hydro,821.88
+2021,Chhattisgarh,WR,21.2787,81.8661,small_hydro,145.52
+2021,Gujarat,WR,22.2587,71.1924,small_hydro,211.94
+2021,Madhya Pradesh,WR,22.9734,78.6569,small_hydro,281.76
+2021,Maharashtra,WR,19.7515,75.7139,small_hydro,802.71
+2021,Dadra and Nagar Haveli,WR,20.1809,73.0169,small_hydro,0.0
+2021,Daman and Diu,WR,20.4283,72.8397,small_hydro,0.0
+2021,Goa,WR,15.2993,74.124,small_hydro,0.0
+2021,Andhra Pradesh,SR,15.9129,79.74,small_hydro,351.23
+2021,Telangana,SR,18.1124,79.0193,small_hydro,67.27
+2021,Karnataka,SR,15.3173,75.7139,small_hydro,2199.68
+2021,Kerala,SR,10.8505,76.2711,small_hydro,640.58
+2021,Tamil Nadu,SR,11.1271,78.6569,small_hydro,244.77
+2021,Lakshadweep,SR,10.5667,72.6417,small_hydro,0.0
+2021,Puducherry,SR,11.9416,79.8083,small_hydro,0.0
+2021,Andaman Nicobar,IS,11.7401,92.6586,small_hydro,14.69
+2021,Bihar,ER,25.0961,85.3131,small_hydro,43.2
+2021,Jharkhand,ER,23.6102,85.2799,small_hydro,9.31
+2021,Odisha,ER,20.9517,85.0985,small_hydro,358.8
+2021,Sikkim,ER,27.533,88.5122,small_hydro,55.96
+2021,West Bengal,ER,22.9868,87.855,small_hydro,107.06
+2021,Arunachal Pradesh,NER,28.218,94.7278,small_hydro,0.55
+2021,Assam,NER,26.2006,92.9376,small_hydro,38.15
+2021,Manipur,NER,24.6637,93.9063,small_hydro,0.0
+2021,Meghalaya,NER,25.467,91.3662,small_hydro,56.79
+2021,Mizoram,NER,23.1645,92.9376,small_hydro,31.07
+2021,Nagaland,NER,26.1584,94.5624,small_hydro,69.77
+2021,Tripura,NER,23.9408,91.9882,small_hydro,9.58
+2021,Chandigarh,NR,30.7333,76.7794,bio_power,0.0
+2021,Delhi,NR,28.7041,77.1025,bio_power,236.71
+2021,Haryana,NR,29.0588,76.0856,bio_power,321.22
+2021,Himachal Pradesh,NR,31.1048,77.1734,bio_power,0.0
+2021,Jammu and Kashmir,NR,33.7782,76.5762,bio_power,0.0
+2021,Ladkh,NR,34.1526,77.5771,bio_power,0.0
+2021,Punjab,NR,31.1471,75.3412,bio_power,817.65
+2021,Rajasthan,WR,27.0238,74.2179,bio_power,413.24
+2021,Uttar Pradesh,NR,26.8467,80.9462,bio_power,3726.69
+2021,Uttarakhand,NR,30.0668,79.0193,bio_power,85.33
+2021,Chhattisgarh,WR,21.2787,81.8661,bio_power,1117.57
+2021,Gujarat,WR,22.2587,71.1924,bio_power,73.12
+2021,Madhya Pradesh,WR,22.9734,78.6569,bio_power,120.62
+2021,Maharashtra,WR,19.7515,75.7139,bio_power,3955.76
+2021,Dadra and Nagar Haveli,WR,20.1809,73.0169,bio_power,0.0
+2021,Daman and Diu,WR,20.4283,72.8397,bio_power,10.53
+2021,Goa,WR,15.2993,74.124,bio_power,0.0
+2021,Andhra Pradesh,SR,15.9129,79.74,bio_power,268.75
+2021,Telangana,SR,18.1124,79.0193,bio_power,294.15
+2021,Karnataka,SR,15.3173,75.7139,bio_power,2800.88
+2021,Kerala,SR,10.8505,76.2711,bio_power,45.69
+2021,Tamil Nadu,SR,11.1271,78.6569,bio_power,733.8
+2021,Lakshadweep,SR,10.5667,72.6417,bio_power,0.0
+2021,Puducherry,SR,11.9416,79.8083,bio_power,0.0
+2021,Andaman Nicobar,IS,11.7401,92.6586,bio_power,0.0
+2021,Bihar,ER,25.0961,85.3131,bio_power,22.77
+2021,Jharkhand,ER,23.6102,85.2799,bio_power,0.0
+2021,Odisha,ER,20.9517,85.0985,bio_power,42.71
+2021,Sikkim,ER,27.533,88.5122,bio_power,0.0
+2021,West Bengal,ER,22.9868,87.855,bio_power,1349.72
+2021,Arunachal Pradesh,NER,28.218,94.7278,bio_power,0.0
+2021,Assam,NER,26.2006,92.9376,bio_power,0.0
+2021,Manipur,NER,24.6637,93.9063,bio_power,0.0
+2021,Meghalaya,NER,25.467,91.3662,bio_power,0.0
+2021,Mizoram,NER,23.1645,92.9376,bio_power,0.0
+2021,Nagaland,NER,26.1584,94.5624,bio_power,0.0
+2021,Tripura,NER,23.9408,91.9882,bio_power,0.0
+2021,Chandigarh,NR,30.7333,76.7794,large_hydro,0.0
+2021,Delhi,NR,28.7041,77.1025,large_hydro,0.0
+2021,Haryana,NR,29.0588,76.0856,large_hydro,0.0
+2021,Himachal Pradesh,NR,31.1048,77.1734,large_hydro,37473.47
+2021,Jammu and Kashmir,NR,33.7782,76.5762,large_hydro,17002.68
+2021,Ladkh,NR,34.1526,77.5771,large_hydro,376.21
+2021,Punjab,NR,31.1471,75.3412,large_hydro,4747.03
+2021,Rajasthan,WR,27.0238,74.2179,large_hydro,469.63
+2021,Uttar Pradesh,NR,26.8467,80.9462,large_hydro,1572.35
+2021,Uttarakhand,NR,30.0668,79.0193,large_hydro,13592.49
+2021,Chhattisgarh,WR,21.2787,81.8661,large_hydro,419.19
+2021,Gujarat,WR,22.2587,71.1924,large_hydro,4233.36
+2021,Madhya Pradesh,WR,22.9734,78.6569,large_hydro,6477.33
+2021,Maharashtra,WR,19.7515,75.7139,large_hydro,5548.46
+2021,Dadra and Nagar Haveli,WR,20.1809,73.0169,large_hydro,0.0
+2021,Daman and Diu,WR,20.4283,72.8397,large_hydro,0.0
+2021,Goa,WR,15.2993,74.124,large_hydro,0.0
+2021,Andhra Pradesh,SR,15.9129,79.74,large_hydro,3280.12
+2021,Telangana,SR,18.1124,79.0193,large_hydro,3645.38
+2021,Karnataka,SR,15.3173,75.7139,large_hydro,12587.35
+2021,Kerala,SR,10.8505,76.2711,large_hydro,6628.39
+2021,Tamil Nadu,SR,11.1271,78.6569,large_hydro,5212.71
+2021,Lakshadweep,SR,10.5667,72.6417,large_hydro,0.0
+2021,Puducherry,SR,11.9416,79.8083,large_hydro,0.0
+2021,Andaman Nicobar,IS,11.7401,92.6586,large_hydro,0.0
+2021,Bihar,ER,25.0961,85.3131,large_hydro,0.0
+2021,Jharkhand,ER,23.6102,85.2799,large_hydro,223.09
+2021,Odisha,ER,20.9517,85.0985,large_hydro,6859.97
+2021,Sikkim,ER,27.533,88.5122,large_hydro,10879.5
+2021,West Bengal,ER,22.9868,87.855,large_hydro,3212.28
+2021,Arunachal Pradesh,NER,28.218,94.7278,large_hydro,3451.34
+2021,Assam,NER,26.2006,92.9376,large_hydro,270.87
+2021,Manipur,NER,24.6637,93.9063,large_hydro,621.62
+2021,Meghalaya,NER,25.467,91.3662,large_hydro,1151.99
+2021,Mizoram,NER,23.1645,92.9376,large_hydro,158.85
+2021,Nagaland,NER,26.1584,94.5624,large_hydro,203.86
+2021,Tripura,NER,23.9408,91.9882,large_hydro,0.0
+2022,Chandigarh,NR,30.7333,76.7794,wind,0.0
+2022,Delhi,NR,28.7041,77.1025,wind,0.0
+2022,Haryana,NR,29.0588,76.0856,wind,0.0
+2022,Himachal Pradesh,NR,31.1048,77.1734,wind,0.0
+2022,Jammu and Kashmir,NR,33.7782,76.5762,wind,0.0
+2022,Ladkh,NR,34.1526,77.5771,wind,0.0
+2022,Punjab,NR,31.1471,75.3412,wind,0.0
+2022,Rajasthan,WR,27.0238,74.2179,wind,4519.09
+2022,Uttar Pradesh,NR,26.8467,80.9462,wind,0.0
+2022,Uttarakhand,NR,30.0668,79.0193,wind,0.0
+2022,Chhattisgarh,WR,21.2787,81.8661,wind,0.0
+2022,Gujarat,WR,22.2587,71.1924,wind,10974.24
+2022,Madhya Pradesh,WR,22.9734,78.6569,wind,2859.81
+2022,Maharashtra,WR,19.7515,75.7139,wind,5246.35
+2022,Dadra and Nagar Haveli,WR,20.1809,73.0169,wind,0.0
+2022,Daman and Diu,WR,20.4283,72.8397,wind,0.0
+2022,Goa,WR,15.2993,74.124,wind,0.0
+2022,Andhra Pradesh,SR,15.9129,79.74,wind,5309.93
+2022,Telangana,SR,18.1124,79.0193,wind,164.99
+2022,Karnataka,SR,15.3173,75.7139,wind,6760.97
+2022,Kerala,SR,10.8505,76.2711,wind,92.46
+2022,Tamil Nadu,SR,11.1271,78.6569,wind,12366.99
+2022,Lakshadweep,SR,10.5667,72.6417,wind,0.0
+2022,Puducherry,SR,11.9416,79.8083,wind,0.0
+2022,Andaman Nicobar,IS,11.7401,92.6586,wind,0.0
+2022,Bihar,ER,25.0961,85.3131,wind,0.0
+2022,Jharkhand,ER,23.6102,85.2799,wind,0.0
+2022,Odisha,ER,20.9517,85.0985,wind,0.0
+2022,Sikkim,ER,27.533,88.5122,wind,0.0
+2022,West Bengal,ER,22.9868,87.855,wind,0.0
+2022,Arunachal Pradesh,NER,28.218,94.7278,wind,0.0
+2022,Assam,NER,26.2006,92.9376,wind,0.0
+2022,Manipur,NER,24.6637,93.9063,wind,0.0
+2022,Meghalaya,NER,25.467,91.3662,wind,0.0
+2022,Mizoram,NER,23.1645,92.9376,wind,0.0
+2022,Nagaland,NER,26.1584,94.5624,wind,0.0
+2022,Tripura,NER,23.9408,91.9882,wind,0.0
+2022,Chandigarh,NR,30.7333,76.7794,solar,7.28
+2022,Delhi,NR,28.7041,77.1025,solar,105.6
+2022,Haryana,NR,29.0588,76.0856,solar,233.1
+2022,Himachal Pradesh,NR,31.1048,77.1734,solar,22.35
+2022,Jammu and Kashmir,NR,33.7782,76.5762,solar,1.71
+2022,Ladkh,NR,34.1526,77.5771,solar,0.0
+2022,Punjab,NR,31.1471,75.3412,solar,781.41
+2022,Rajasthan,WR,27.0238,74.2179,solar,6753.54
+2022,Uttar Pradesh,NR,26.8467,80.9462,solar,1389.23
+2022,Uttarakhand,NR,30.0668,79.0193,solar,147.78
+2022,Chhattisgarh,WR,21.2787,81.8661,solar,190.97
+2022,Gujarat,WR,22.2587,71.1924,solar,2952.34
+2022,Madhya Pradesh,WR,22.9734,78.6569,solar,1971.92
+2022,Maharashtra,WR,19.7515,75.7139,solar,1571.27
+2022,Dadra and Nagar Haveli,WR,20.1809,73.0169,solar,20.55
+2022,Daman and Diu,WR,20.4283,72.8397,solar,16.99
+2022,Goa,WR,15.2993,74.124,solar,0.64
+2022,Andhra Pradesh,SR,15.9129,79.74,solar,3969.59
+2022,Telangana,SR,18.1124,79.0193,solar,3140.89
+2022,Karnataka,SR,15.3173,75.7139,solar,6521.54
+2022,Kerala,SR,10.8505,76.2711,solar,229.13
+2022,Tamil Nadu,SR,11.1271,78.6569,solar,3648.66
+2022,Lakshadweep,SR,10.5667,72.6417,solar,0.15
+2022,Puducherry,SR,11.9416,79.8083,solar,6.12
+2022,Andaman Nicobar,IS,11.7401,92.6586,solar,9.73
+2022,Bihar,ER,25.0961,85.3131,solar,79.75
+2022,Jharkhand,ER,23.6102,85.2799,solar,8.91
+2022,Odisha,ER,20.9517,85.0985,solar,282.32
+2022,Sikkim,ER,27.533,88.5122,solar,0.0
+2022,West Bengal,ER,22.9868,87.855,solar,49.1
+2022,Arunachal Pradesh,NER,28.218,94.7278,solar,0.89
+2022,Assam,NER,26.2006,92.9376,solar,30.76
+2022,Manipur,NER,24.6637,93.9063,solar,3.42
+2022,Meghalaya,NER,25.467,91.3662,solar,0.0
+2022,Mizoram,NER,23.1645,92.9376,solar,1.17
+2022,Nagaland,NER,26.1584,94.5624,solar,0.0
+2022,Tripura,NER,23.9408,91.9882,solar,2.87
+2022,Chandigarh,NR,30.7333,76.7794,small_hydro,0.0
+2022,Delhi,NR,28.7041,77.1025,small_hydro,0.0
+2022,Haryana,NR,29.0588,76.0856,small_hydro,128.41
+2022,Himachal Pradesh,NR,31.1048,77.1734,small_hydro,1242.69
+2022,Jammu and Kashmir,NR,33.7782,76.5762,small_hydro,279.4
+2022,Ladkh,NR,34.1526,77.5771,small_hydro,0.0
+2022,Punjab,NR,31.1471,75.3412,small_hydro,784.0
+2022,Rajasthan,WR,27.0238,74.2179,small_hydro,0.33
+2022,Uttar Pradesh,NR,26.8467,80.9462,small_hydro,75.18
+2022,Uttarakhand,NR,30.0668,79.0193,small_hydro,160.68
+2022,Chhattisgarh,WR,21.2787,81.8661,small_hydro,122.85
+2022,Gujarat,WR,22.2587,71.1924,small_hydro,70.9
+2022,Madhya Pradesh,WR,22.9734,78.6569,small_hydro,103.78
+2022,Maharashtra,WR,19.7515,75.7139,small_hydro,434.05
+2022,Dadra and Nagar Haveli,WR,20.1809,73.0169,small_hydro,0.0
+2022,Daman and Diu,WR,20.4283,72.8397,small_hydro,0.0
+2022,Goa,WR,15.2993,74.124,small_hydro,0.0
+2022,Andhra Pradesh,SR,15.9129,79.74,small_hydro,139.8
+2022,Telangana,SR,18.1124,79.0193,small_hydro,34.44
+2022,Karnataka,SR,15.3173,75.7139,small_hydro,1324.76
+2022,Kerala,SR,10.8505,76.2711,small_hydro,483.33
+2022,Tamil Nadu,SR,11.1271,78.6569,small_hydro,139.78
+2022,Lakshadweep,SR,10.5667,72.6417,small_hydro,0.0
+2022,Puducherry,SR,11.9416,79.8083,small_hydro,0.0
+2022,Andaman Nicobar,IS,11.7401,92.6586,small_hydro,6.6
+2022,Bihar,ER,25.0961,85.3131,small_hydro,4.16
+2022,Jharkhand,ER,23.6102,85.2799,small_hydro,0.27
+2022,Odisha,ER,20.9517,85.0985,small_hydro,221.63
+2022,Sikkim,ER,27.533,88.5122,small_hydro,6.18
+2022,West Bengal,ER,22.9868,87.855,small_hydro,95.59
+2022,Arunachal Pradesh,NER,28.218,94.7278,small_hydro,0.14
+2022,Assam,NER,26.2006,92.9376,small_hydro,22.63
+2022,Manipur,NER,24.6637,93.9063,small_hydro,0.0
+2022,Meghalaya,NER,25.467,91.3662,small_hydro,21.75
+2022,Mizoram,NER,23.1645,92.9376,small_hydro,7.94
+2022,Nagaland,NER,26.1584,94.5624,small_hydro,30.89
+2022,Tripura,NER,23.9408,91.9882,small_hydro,1.44
+2022,Chandigarh,NR,30.7333,76.7794,bio_power,0.0
+2022,Delhi,NR,28.7041,77.1025,bio_power,110.87
+2022,Haryana,NR,29.0588,76.0856,bio_power,100.03
+2022,Himachal Pradesh,NR,31.1048,77.1734,bio_power,0.0
+2022,Jammu and Kashmir,NR,33.7782,76.5762,bio_power,0.0
+2022,Ladkh,NR,34.1526,77.5771,bio_power,0.0
+2022,Punjab,NR,31.1471,75.3412,bio_power,306.88
+2022,Rajasthan,WR,27.0238,74.2179,bio_power,198.22
+2022,Uttar Pradesh,NR,26.8467,80.9462,bio_power,626.5
+2022,Uttarakhand,NR,30.0668,79.0193,bio_power,121.56
+2022,Chhattisgarh,WR,21.2787,81.8661,bio_power,652.48
+2022,Gujarat,WR,22.2587,71.1924,bio_power,2.04
+2022,Madhya Pradesh,WR,22.9734,78.6569,bio_power,19.2
+2022,Maharashtra,WR,19.7515,75.7139,bio_power,735.24
+2022,Dadra and Nagar Haveli,WR,20.1809,73.0169,bio_power,0.0
+2022,Daman and Diu,WR,20.4283,72.8397,bio_power,5.73
+2022,Goa,WR,15.2993,74.124,bio_power,0.0
+2022,Andhra Pradesh,SR,15.9129,79.74,bio_power,116.84
+2022,Telangana,SR,18.1124,79.0193,bio_power,189.8
+2022,Karnataka,SR,15.3173,75.7139,bio_power,904.91
+2022,Kerala,SR,10.8505,76.2711,bio_power,24.12
+2022,Tamil Nadu,SR,11.1271,78.6569,bio_power,314.38
+2022,Lakshadweep,SR,10.5667,72.6417,bio_power,0.0
+2022,Puducherry,SR,11.9416,79.8083,bio_power,0.0
+2022,Andaman Nicobar,IS,11.7401,92.6586,bio_power,0.0
+2022,Bihar,ER,25.0961,85.3131,bio_power,2.14
+2022,Jharkhand,ER,23.6102,85.2799,bio_power,0.0
+2022,Odisha,ER,20.9517,85.0985,bio_power,51.26
+2022,Sikkim,ER,27.533,88.5122,bio_power,0.0
+2022,West Bengal,ER,22.9868,87.855,bio_power,746.41
+2022,Arunachal Pradesh,NER,28.218,94.7278,bio_power,0.0
+2022,Assam,NER,26.2006,92.9376,bio_power,0.0
+2022,Manipur,NER,24.6637,93.9063,bio_power,0.0
+2022,Meghalaya,NER,25.467,91.3662,bio_power,0.0
+2022,Mizoram,NER,23.1645,92.9376,bio_power,0.0
+2022,Nagaland,NER,26.1584,94.5624,bio_power,0.0
+2022,Tripura,NER,23.9408,91.9882,bio_power,0.0
+2022,Chandigarh,NR,30.7333,76.7794,large_hydro,0.0
+2022,Delhi,NR,28.7041,77.1025,large_hydro,0.0
+2022,Haryana,NR,29.0588,76.0856,large_hydro,0.0
+2022,Himachal Pradesh,NR,31.1048,77.1734,large_hydro,26221.04
+2022,Jammu and Kashmir,NR,33.7782,76.5762,large_hydro,11945.45
+2022,Ladkh,NR,34.1526,77.5771,large_hydro,289.02
+2022,Punjab,NR,31.1471,75.3412,large_hydro,2139.99
+2022,Rajasthan,WR,27.0238,74.2179,large_hydro,52.43
+2022,Uttar Pradesh,NR,26.8467,80.9462,large_hydro,679.18
+2022,Uttarakhand,NR,30.0668,79.0193,large_hydro,8367.86
+2022,Chhattisgarh,WR,21.2787,81.8661,large_hydro,229.91
+2022,Gujarat,WR,22.2587,71.1924,large_hydro,1418.46
+2022,Madhya Pradesh,WR,22.9734,78.6569,large_hydro,2378.23
+2022,Maharashtra,WR,19.7515,75.7139,large_hydro,3141.87
+2022,Dadra and Nagar Haveli,WR,20.1809,73.0169,large_hydro,0.0
+2022,Daman and Diu,WR,20.4283,72.8397,large_hydro,0.0
+2022,Goa,WR,15.2993,74.124,large_hydro,0.0
+2022,Andhra Pradesh,SR,15.9129,79.74,large_hydro,1355.81
+2022,Telangana,SR,18.1124,79.0193,large_hydro,3238.55
+2022,Karnataka,SR,15.3173,75.7139,large_hydro,6822.22
+2022,Kerala,SR,10.8505,76.2711,large_hydro,4557.64
+2022,Tamil Nadu,SR,11.1271,78.6569,large_hydro,2457.83
+2022,Lakshadweep,SR,10.5667,72.6417,large_hydro,0.0
+2022,Puducherry,SR,11.9416,79.8083,large_hydro,0.0
+2022,Andaman Nicobar,IS,11.7401,92.6586,large_hydro,0.0
+2022,Bihar,ER,25.0961,85.3131,large_hydro,0.0
+2022,Jharkhand,ER,23.6102,85.2799,large_hydro,373.74
+2022,Odisha,ER,20.9517,85.0985,large_hydro,2930.72
+2022,Sikkim,ER,27.533,88.5122,large_hydro,8117.33
+2022,West Bengal,ER,22.9868,87.855,large_hydro,1980.29
+2022,Arunachal Pradesh,NER,28.218,94.7278,large_hydro,2706.63
+2022,Assam,NER,26.2006,92.9376,large_hydro,464.24
+2022,Manipur,NER,24.6637,93.9063,large_hydro,265.85
+2022,Meghalaya,NER,25.467,91.3662,large_hydro,562.45
+2022,Mizoram,NER,23.1645,92.9376,large_hydro,39.7
+2022,Nagaland,NER,26.1584,94.5624,large_hydro,70.07
+2022,Tripura,NER,23.9408,91.9882,large_hydro,0.0
+2023,Chandigarh,NR,30.7333,76.7794,wind,0.0
+2023,Delhi,NR,28.7041,77.1025,wind,0.0
+2023,Haryana,NR,29.0588,76.0856,wind,0.0
+2023,Himachal Pradesh,NR,31.1048,77.1734,wind,0.0
+2023,Jammu and Kashmir,NR,33.7782,76.5762,wind,0.0
+2023,Ladkh,NR,34.1526,77.5771,wind,0.0
+2023,Punjab,NR,31.1471,75.3412,wind,0.0
+2023,Rajasthan,WR,27.0238,74.2179,wind,6111.41
+2023,Uttar Pradesh,NR,26.8467,80.9462,wind,0.0
+2023,Uttarakhand,NR,30.0668,79.0193,wind,0.0
+2023,Chhattisgarh,WR,21.2787,81.8661,wind,0.0
+2023,Gujarat,WR,22.2587,71.1924,wind,19206.22
+2023,Madhya Pradesh,WR,22.9734,78.6569,wind,4486.72
+2023,Maharashtra,WR,19.7515,75.7139,wind,7243.06
+2023,Goa,WR,15.2993,74.124,wind,0.0
+2023,Andhra Pradesh,SR,15.9129,79.74,wind,7426.46
+2023,Telangana,SR,18.1124,79.0193,wind,279.23
+2023,Karnataka,SR,15.3173,75.7139,wind,9967.89
+2023,Kerala,SR,10.8505,76.2711,wind,179.32
+2023,Tamil Nadu,SR,11.1271,78.6569,wind,16913.85
+2023,Lakshadweep,SR,10.5667,72.6417,wind,0.0
+2023,Puducherry,SR,11.9416,79.8083,wind,0.0
+2023,Andaman Nicobar,IS,11.7401,92.6586,wind,0.0
+2023,Bihar,ER,25.0961,85.3131,wind,0.0
+2023,Jharkhand,ER,23.6102,85.2799,wind,0.0
+2023,Odisha,ER,20.9517,85.0985,wind,0.0
+2023,Sikkim,ER,27.533,88.5122,wind,0.0
+2023,West Bengal,ER,22.9868,87.855,wind,0.0
+2023,Arunachal Pradesh,NER,28.218,94.7278,wind,0.0
+2023,Assam,NER,26.2006,92.9376,wind,0.0
+2023,Manipur,NER,24.6637,93.9063,wind,0.0
+2023,Meghalaya,NER,25.467,91.3662,wind,0.0
+2023,Mizoram,NER,23.1645,92.9376,wind,0.0
+2023,Nagaland,NER,26.1584,94.5624,wind,0.0
+2023,Tripura,NER,23.9408,91.9882,wind,0.0
+2023,Dadra and Nagar Haveli,WR,20.1809,73.0169,wind,0.0
+2023,Daman and Diu,WR,20.4283,72.8397,wind,0.0
+2023,Chandigarh,NR,30.7333,76.7794,solar,12.61
+2023,Delhi,NR,28.7041,77.1025,solar,236.11
+2023,Haryana,NR,29.0588,76.0856,solar,555.2
+2023,Himachal Pradesh,NR,31.1048,77.1734,solar,58.76
+2023,Jammu and Kashmir,NR,33.7782,76.5762,solar,0.0
+2023,Ladkh,NR,34.1526,77.5771,solar,0.0
+2023,Punjab,NR,31.1471,75.3412,solar,2778.66
+2023,Rajasthan,WR,27.0238,74.2179,solar,34474.43
+2023,Uttar Pradesh,NR,26.8467,80.9462,solar,3674.02
+2023,Uttarakhand,NR,30.0668,79.0193,solar,331.8
+2023,Chhattisgarh,WR,21.2787,81.8661,solar,635.42
+2023,Gujarat,WR,22.2587,71.1924,solar,10335.32
+2023,Madhya Pradesh,WR,22.9734,78.6569,solar,3839.3
+2023,Maharashtra,WR,19.7515,75.7139,solar,4387.85
+2023,Goa,WR,15.2993,74.124,solar,14.87
+2023,Andhra Pradesh,SR,15.9129,79.74,solar,8140.72
+2023,Telangana,SR,18.1124,79.0193,solar,6745.46
+2023,Karnataka,SR,15.3173,75.7139,solar,14153.79
+2023,Kerala,SR,10.8505,76.2711,solar,879.75
+2023,Tamil Nadu,SR,11.1271,78.6569,solar,9419.39
+2023,Lakshadweep,SR,10.5667,72.6417,solar,0.1
+2023,Puducherry,SR,11.9416,79.8083,solar,12.24
+2023,Andaman Nicobar,IS,11.7401,92.6586,solar,23.94
+2023,Bihar,ER,25.0961,85.3131,solar,169.53
+2023,Jharkhand,ER,23.6102,85.2799,solar,19.7
+2023,Odisha,ER,20.9517,85.0985,solar,706.24
+2023,Sikkim,ER,27.533,88.5122,solar,0.0
+2023,West Bengal,ER,22.9868,87.855,solar,125.04
+2023,Arunachal Pradesh,NER,28.218,94.7278,solar,22.27
+2023,Assam,NER,26.2006,92.9376,solar,216.35
+2023,Manipur,NER,24.6637,93.9063,solar,8.17
+2023,Meghalaya,NER,25.467,91.3662,solar,0.0
+2023,Mizoram,NER,23.1645,92.9376,solar,3.21
+2023,Nagaland,NER,26.1584,94.5624,solar,0.0
+2023,Tripura,NER,23.9408,91.9882,solar,6.58
+2023,Dadra and Nagar Haveli,WR,20.1809,73.0169,solar,27.4
+2023,Daman and Diu,WR,20.4283,72.8397,solar,27.4
+2023,Chandigarh,NR,30.7333,76.7794,small_hydro,0.0
+2023,Delhi,NR,28.7041,77.1025,small_hydro,0.0
+2023,Haryana,NR,29.0588,76.0856,small_hydro,241.9
+2023,Himachal Pradesh,NR,31.1048,77.1734,small_hydro,2854.19
+2023,Jammu and Kashmir,NR,33.7782,76.5762,small_hydro,393.2
+2023,Ladkh,NR,34.1526,77.5771,small_hydro,0.0
+2023,Punjab,NR,31.1471,75.3412,small_hydro,682.48
+2023,Rajasthan,WR,27.0238,74.2179,small_hydro,7.17
+2023,Uttar Pradesh,NR,26.8467,80.9462,small_hydro,234.69
+2023,Uttarakhand,NR,30.0668,79.0193,small_hydro,353.4
+2023,Chhattisgarh,WR,21.2787,81.8661,small_hydro,155.92
+2023,Gujarat,WR,22.2587,71.1924,small_hydro,213.1
+2023,Madhya Pradesh,WR,22.9734,78.6569,small_hydro,357.97
+2023,Maharashtra,WR,19.7515,75.7139,small_hydro,766.73
+2023,Goa,WR,15.2993,74.124,small_hydro,0.0
+2023,Andhra Pradesh,SR,15.9129,79.74,small_hydro,410.9
+2023,Telangana,SR,18.1124,79.0193,small_hydro,91.71
+2023,Karnataka,SR,15.3173,75.7139,small_hydro,2309.55
+2023,Kerala,SR,10.8505,76.2711,small_hydro,824.34
+2023,Tamil Nadu,SR,11.1271,78.6569,small_hydro,296.71
+2023,Lakshadweep,SR,10.5667,72.6417,small_hydro,0.0
+2023,Puducherry,SR,11.9416,79.8083,small_hydro,0.0
+2023,Andaman Nicobar,IS,11.7401,92.6586,small_hydro,13.94
+2023,Bihar,ER,25.0961,85.3131,small_hydro,12.63
+2023,Jharkhand,ER,23.6102,85.2799,small_hydro,0.0
+2023,Odisha,ER,20.9517,85.0985,small_hydro,424.92
+2023,Sikkim,ER,27.533,88.5122,small_hydro,12.35
+2023,West Bengal,ER,22.9868,87.855,small_hydro,204.44
+2023,Arunachal Pradesh,NER,28.218,94.7278,small_hydro,2.55
+2023,Assam,NER,26.2006,92.9376,small_hydro,62.66
+2023,Manipur,NER,24.6637,93.9063,small_hydro,0.0
+2023,Meghalaya,NER,25.467,91.3662,small_hydro,71.64
+2023,Mizoram,NER,23.1645,92.9376,small_hydro,59.06
+2023,Nagaland,NER,26.1584,94.5624,small_hydro,111.95
+2023,Tripura,NER,23.9408,91.9882,small_hydro,0.0
+2023,Dadra and Nagar Haveli,WR,20.1809,73.0169,small_hydro,0.0
+2023,Daman and Diu,WR,20.4283,72.8397,small_hydro,0.0
+2023,Chandigarh,NR,30.7333,76.7794,bio_power,0.0
+2023,Delhi,NR,28.7041,77.1025,bio_power,0.0
+2023,Haryana,NR,29.0588,76.0856,bio_power,356.07
+2023,Himachal Pradesh,NR,31.1048,77.1734,bio_power,0.0
+2023,Jammu and Kashmir,NR,33.7782,76.5762,bio_power,0.0
+2023,Ladkh,NR,34.1526,77.5771,bio_power,0.0
+2023,Punjab,NR,31.1471,75.3412,bio_power,497.68
+2023,Rajasthan,WR,27.0238,74.2179,bio_power,397.05
+2023,Uttar Pradesh,NR,26.8467,80.9462,bio_power,66.35
+2023,Uttarakhand,NR,30.0668,79.0193,bio_power,0.0
+2023,Chhattisgarh,WR,21.2787,81.8661,bio_power,1194.6
+2023,Gujarat,WR,22.2587,71.1924,bio_power,0.0
+2023,Madhya Pradesh,WR,22.9734,78.6569,bio_power,38.76
+2023,Maharashtra,WR,19.7515,75.7139,bio_power,236.48
+2023,Goa,WR,15.2993,74.124,bio_power,0.0
+2023,Andhra Pradesh,SR,15.9129,79.74,bio_power,54.86
+2023,Telangana,SR,18.1124,79.0193,bio_power,21.48
+2023,Karnataka,SR,15.3173,75.7139,bio_power,106.9
+2023,Kerala,SR,10.8505,76.2711,bio_power,0.0
+2023,Tamil Nadu,SR,11.1271,78.6569,bio_power,126.93
+2023,Lakshadweep,SR,10.5667,72.6417,bio_power,0.0
+2023,Puducherry,SR,11.9416,79.8083,bio_power,0.0
+2023,Andaman Nicobar,IS,11.7401,92.6586,bio_power,0.0
+2023,Bihar,ER,25.0961,85.3131,bio_power,0.0
+2023,Jharkhand,ER,23.6102,85.2799,bio_power,0.0
+2023,Odisha,ER,20.9517,85.0985,bio_power,60.95
+2023,Sikkim,ER,27.533,88.5122,bio_power,0.0
+2023,West Bengal,ER,22.9868,87.855,bio_power,0.0
+2023,Arunachal Pradesh,NER,28.218,94.7278,bio_power,0.0
+2023,Assam,NER,26.2006,92.9376,bio_power,0.0
+2023,Manipur,NER,24.6637,93.9063,bio_power,0.0
+2023,Meghalaya,NER,25.467,91.3662,bio_power,0.0
+2023,Mizoram,NER,23.1645,92.9376,bio_power,0.0
+2023,Nagaland,NER,26.1584,94.5624,bio_power,0.0
+2023,Tripura,NER,23.9408,91.9882,bio_power,0.0
+2023,Dadra and Nagar Haveli,WR,20.1809,73.0169,bio_power,3.22
+2023,Daman and Diu,WR,20.4283,72.8397,bio_power,3.22
+2023,Chandigarh,NR,30.7333,76.7794,large_hydro,0.0
+2023,Delhi,NR,28.7041,77.1025,large_hydro,0.0
+2023,Haryana,NR,29.0588,76.0856,large_hydro,0.0
+2023,Himachal Pradesh,NR,31.1048,77.1734,large_hydro,38666.98
+2023,Jammu and Kashmir,NR,33.7782,76.5762,large_hydro,16777.42
+2023,Ladkh,NR,34.1526,77.5771,large_hydro,402.78
+2023,Punjab,NR,31.1471,75.3412,large_hydro,4399.65
+2023,Rajasthan,WR,27.0238,74.2179,large_hydro,967.43
+2023,Uttar Pradesh,NR,26.8467,80.9462,large_hydro,974.04
+2023,Uttarakhand,NR,30.0668,79.0193,large_hydro,15435.77
+2023,Chhattisgarh,WR,21.2787,81.8661,large_hydro,237.37
+2023,Gujarat,WR,22.2587,71.1924,large_hydro,6133.14
+2023,Madhya Pradesh,WR,22.9734,78.6569,large_hydro,7309.07
+2023,Maharashtra,WR,19.7515,75.7139,large_hydro,5894.29
+2023,Goa,WR,15.2993,74.124,large_hydro,0.0
+2023,Andhra Pradesh,SR,15.9129,79.74,large_hydro,3747.58
+2023,Telangana,SR,18.1124,79.0193,large_hydro,6010.07
+2023,Karnataka,SR,15.3173,75.7139,large_hydro,13157.34
+2023,Kerala,SR,10.8505,76.2711,large_hydro,7989.0
+2023,Tamil Nadu,SR,11.1271,78.6569,large_hydro,5965.77
+2023,Lakshadweep,SR,10.5667,72.6417,large_hydro,0.0
+2023,Puducherry,SR,11.9416,79.8083,large_hydro,0.0
+2023,Andaman Nicobar,IS,11.7401,92.6586,large_hydro,0.0
+2023,Bihar,ER,25.0961,85.3131,large_hydro,0.0
+2023,Jharkhand,ER,23.6102,85.2799,large_hydro,305.47
+2023,Odisha,ER,20.9517,85.0985,large_hydro,5462.81
+2023,Sikkim,ER,27.533,88.5122,large_hydro,11696.79
+2023,West Bengal,ER,22.9868,87.855,large_hydro,3423.73
+2023,Arunachal Pradesh,NER,28.218,94.7278,large_hydro,4820.94
+2023,Assam,NER,26.2006,92.9376,large_hydro,481.6
+2023,Manipur,NER,24.6637,93.9063,large_hydro,477.98
+2023,Meghalaya,NER,25.467,91.3662,large_hydro,980.25
+2023,Mizoram,NER,23.1645,92.9376,large_hydro,204.13
+2023,Nagaland,NER,26.1584,94.5624,large_hydro,177.37
+2023,Tripura,NER,23.9408,91.9882,large_hydro,0.0
+2023,Dadra and Nagar Haveli,WR,20.1809,73.0169,large_hydro,0.0
+2023,Daman and Diu,WR,20.4283,72.8397,large_hydro,0.0

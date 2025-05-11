@@ -158,3 +158,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\RE_WIDE_FORMAT_2017_2023.csv
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\RE_WIDE_FORMAT_2017_2023_WITH_GEO.csv
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\RE_LONG_FORMAT_2017_2023.csv
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\RE_LONG_FORMAT_2017_2023_WITH_GEO.csv
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\RE_LONG_FORMAT_2017_2023_WITH_GEO_CLEANED.csv
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\data_set.rar
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\data_set\dataset-metadata.json
+C:\Users\rajas\Documents\GitHub\Post-COVID-Energy-Forecasting\.vscode
