@@ -1,4 +1,4 @@
-# 🌞 Post-COVID State-wise Renewable Energy Forecasting (India)
+# 🌞 State-wise Renewable Energy Forecasting (India)
 
 This project forecasts state-wise renewable energy generation in India for 2023 using historical data (2017–2022). It also clusters states based on their energy generation profile using machine learning.
 
